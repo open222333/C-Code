@@ -1,2 +1,2 @@
-# C_Code
-C++ 練習
+# CCode
+C C++ 練習
